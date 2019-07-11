@@ -1,0 +1,22 @@
+{
+    "name": "woojos/easy-getresponse",
+    "version": "1.0.0",
+    "type": "wordpress-dropin",
+    "description": "",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Marcin Wojcik",
+            "email": "woojos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.2",
+        "dealerdirect/phpcodesniffer-composer-installer": "*",
+        "wp-coding-standards/wpcs": "*"
+    }
+}
